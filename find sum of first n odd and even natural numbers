@@ -1,0 +1,4 @@
+n = int(input("enter a number : "))
+c = (n*(n+1))
+print("even ans : ",c)
+print("odd ans : ",n**2)
