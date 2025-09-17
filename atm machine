@@ -1,0 +1,7 @@
+a = int(input("enter 1 or 0 for atm_card"))
+p = int(input("enter 1 or 0 for correct_pin"))
+al = int(input("enter 1 or 0 for not_locked"))
+if (a==1 and p == 1 and al == 0):
+    print("money withdrawn.")
+else:
+    print("error.")
