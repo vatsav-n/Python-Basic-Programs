@@ -1,0 +1,3 @@
+a = int(input("enter a number : "))
+mul_num = a*10
+print("square of the number is : ",mul_num)
