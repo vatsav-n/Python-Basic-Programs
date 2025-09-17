@@ -1,0 +1,2 @@
+min = int(input("enter number of miniutes : "))
+print("min to sec conversion : ",min*60,"sec")
