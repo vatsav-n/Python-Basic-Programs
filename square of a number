@@ -1,0 +1,3 @@
+a = int(input("enter a number : "))
+sq_num = a**2
+print("square of the number is : ",sq_num)
