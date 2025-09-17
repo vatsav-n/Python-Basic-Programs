@@ -1,0 +1,7 @@
+p = int(input("enter 1 or 0 for pan_card"))
+ac = int(input("enter 1 or 0 for addhar_card"))
+cs = int(input("enter civil_score"))
+if (p==1 and ac == 1 and cs > 700):
+    print("loan can be approved .")
+else:
+    print("loan declined.")
