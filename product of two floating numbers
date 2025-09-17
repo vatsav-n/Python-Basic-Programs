@@ -1,0 +1,3 @@
+a = float(input("enter a number : "))
+b = float(input("enter b number : "))
+print("product : ",a*b)
