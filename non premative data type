@@ -1,0 +1,8 @@
+li = [1,2,3]
+tu = (1,2,3,4)
+dic = {"a":1,"b":2}
+sett = {1,2,3,1}
+print(type(li))
+print(type(tu))
+print(type(dic))
+print(type(sett))
